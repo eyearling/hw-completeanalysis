@@ -1,0 +1,12 @@
+*.nii
+*.nii.gz
+*.1d
+*.1D
+*.BRIK
+*.HEAD
+*.log
+*.txt
+*.tsv
+*.json
+.DS_Store
+
